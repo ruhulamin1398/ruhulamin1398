@@ -1,16 +1,58 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ruhul Amin</h1>
+<h3 align="center">🚀 Blockchain | Smart Contract | DApp Developer</h3>
 
-<!--
-**ruhulamin1398/ruhulamin1398** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ruhulamin1398&label=Profile%20views&color=0e75b6&style=flat" alt="ruhulamin1398" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Current Focus & Expertise
+
+- 🔭 I’m currently building Web3 DApps, wirte and audit Smart Contract. 
+- 🌱 Exploring more about cross-chain functionalities.  
+- 🧾 I write about Blockchain, DApps and Smart Contract security and best practices.  
+- 🧩 I love contributing to open-source Blockchain projects
+- 
+Core Skills:
+✔️ Smart Contract Development – Secure & gas-optimized Solidity contracts (ERC-20, ERC-721, ERC-1155)
+✔️ DApp Development – Seamless Web3 integration with Ethers.js, Web3.js, and Hardhat; React.js/Next.js frontends and Node.js/Express/MongoDB backends
+✔️ DeFi & NFTs – Designing yield farming, staking, tokenomics models, and NFT minting/marketplace platforms
+✔️ Security & Auditing – Comprehensive audits with best practices, unit/fuzz testing, static analysis using MythX, Slither, Tenderly
+---
+
+### 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ruhulamin1398&show_icons=true&theme=react&count_private=true" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruhulamin1398&theme=react" alt="GitHub Streak" />
+</p>
+
+---
+ 
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ruhulamin1398&theme=react-dark" alt="activity graph" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ruhulamin1398&theme=gruvbox" />
+</p>
+
+---
+
+### 📫 Contact Me
+
+- LinkedIn: [linkedin.com/in/theruhulamin](https://linkedin.com/in/theruhulamin)
+- Website/Portfolio: [ruhul-info.vercel.app](https://ruhul-info.vercel.app/)
+- Whatsapp : [+880 1333355827](https://wa.me/8801840000408)
+
+---
