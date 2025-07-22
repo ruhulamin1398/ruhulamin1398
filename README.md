@@ -13,9 +13,9 @@
 ### 🧠 About Me
 I’m a passionate **Fullstack Blockchain DApp Developer**, **Smart Contract Developer**, and **Security Auditor** with:
 
-🧪 5+ years of professional web development experience (Node.js, Express, React.js, MongoDB)
+🧪 5+ years of professional web development experience ( React.js, Next.js, Node.js, Express.js, Laravel)
 
-🔗 2+ years of specialized blockchain development (Ethereum, Hyperledger Fabric)
+🔗 2+ years of specialized blockchain development (Ethereum(EVM), Hyperledger Fabric(Private blocchain) )
 
 📚 10+ published research papers on blockchain protocols, privacy, and scalability
  
