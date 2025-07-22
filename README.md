@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ruhul Amin</h1>
 <h3 align="center">🚀 Full-stack Developer | Blockchain | Smart Contract | Defi | Dapp | Ethereum | Hyperledger Fabric </h3>
 
+
+<br/>
+<br/> 
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ruhulamin1398&label=Profile%20views&color=0e75b6&style=flat" alt="ruhulamin1398" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ruhulamin1398&show_icons=true&theme=react&count_private=true" alt="GitHub stats" />
 </p>
 
-
----
 
 ### 🧠 About Me
 I’m a passionate **Fullstack Blockchain DApp Developer**, **Smart Contract Developer**, and **Security Auditor** with:
@@ -33,6 +35,9 @@ I’m a passionate **Fullstack Blockchain DApp Developer**, **Smart Contract Dev
 
 🧩 I love contributing to open-source Blockchain projects
 
+---
+
+
 ### 🚀 Core Skills:
 
 ✔️ Smart Contract Development – Secure & gas-optimized Solidity contracts (ERC-20, ERC-721, ERC-1155)
@@ -44,19 +49,7 @@ I’m a passionate **Fullstack Blockchain DApp Developer**, **Smart Contract Dev
 ✔️ Security & Auditing – Comprehensive audits with best practices, unit/fuzz testing, static analysis using MythX, Slither, Tenderly
 
 ---
-
-### 🔥 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruhulamin1398&show_icons=true&theme=react&count_private=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruhulamin1398&theme=react" alt="GitHub Streak" />
-</p>
-
  
----
 
 ### 📫 Contact Me
 
