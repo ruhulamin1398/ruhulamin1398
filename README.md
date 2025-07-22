@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruhul Amin</h1>
-<h3 align="center">🚀 Blockchain | Smart Contract | DApp Developer</h3>
+<h3 align="center">🚀 Full-stack Developer | Blockchain | Smart Contract | Defi | Dapp | Ethereum | Hyperledger Fabric </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ruhulamin1398&label=Profile%20views&color=0e75b6&style=flat" alt="ruhulamin1398" />
@@ -15,10 +15,10 @@
 - 🧩 I love contributing to open-source Blockchain projects
 - 
 Core Skills:
-✔️ Smart Contract Development – Secure & gas-optimized Solidity contracts (ERC-20, ERC-721, ERC-1155)
-✔️ DApp Development – Seamless Web3 integration with Ethers.js, Web3.js, and Hardhat; React.js/Next.js frontends and Node.js/Express/MongoDB backends
-✔️ DeFi & NFTs – Designing yield farming, staking, tokenomics models, and NFT minting/marketplace platforms
-✔️ Security & Auditing – Comprehensive audits with best practices, unit/fuzz testing, static analysis using MythX, Slither, Tenderly
+- ✔️ Smart Contract Development – Secure & gas-optimized Solidity contracts (ERC-20, ERC-721, ERC-1155)
+- ✔️ DApp Development – Seamless Web3 integration with Ethers.js, Web3.js, and Hardhat; React.js/Next.js frontends and Node.js/Express/MongoDB backends
+- ✔️ DeFi & NFTs – Designing yield farming, staking, tokenomics models, and NFT minting/marketplace platforms
+- ✔️ Security & Auditing – Comprehensive audits with best practices, unit/fuzz testing, static analysis using MythX, Slither, Tenderly
 ---
 
 ### 🔥 GitHub Stats
@@ -33,11 +33,6 @@ Core Skills:
 
 ---
  
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ruhulamin1398&theme=react-dark" alt="activity graph" />
-</p>
 
 ---
 
