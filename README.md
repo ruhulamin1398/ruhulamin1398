@@ -31,17 +31,7 @@ Core Skills:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruhulamin1398&theme=react" alt="GitHub Streak" />
 </p>
 
----
  
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ruhulamin1398&theme=gruvbox" />
-</p>
-
 ---
 
 ### 📫 Contact Me
