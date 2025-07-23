@@ -10,7 +10,7 @@
 </p>
 
 
-### 🧠 About Me
+### 🧠 Overview
 I’m a passionate **Fullstack Blockchain DApp Developer**, **Smart Contract Developer**, and **Security Auditor** with:
 
 🧪 5+ years of professional web development experience ( React.js, Next.js, Node.js, Express.js, Laravel)
