@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruhul Amin</h1>
-<h3 align="center">🚀 Full-stack Developer | Blockchain | Smart Contract | Defi | Dapp | Ethereum | Hyperledger Fabric </h3>
+<h3 align="center">🚀 Full-stack Developer  | NextJs | Blockchain | Smart Contract | Defi | Dapp | Ethereum | Hyperledger Fabric </h3>
 
 
 <br/>
