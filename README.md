@@ -10,51 +10,51 @@
 </p>
 
 
-### 🧠 Overview
-I’m a passionate **Fullstack Blockchain DApp Developer**, **Smart Contract Developer**, and **Security Auditor** with:
+## 🧠 Overview
 
-🧪 5+ years of professional web development experience ( React.js, Next.js, Node.js, Express.js, Laravel)
+### 🔗 Blockchain & Web3  
+- 🟢 **2+ years** building on Ethereum, Polygon, BSC & Hyperledger Fabric  
+- 🛡️ Designing & auditing secure Solidity contracts (ERC-20, ERC-721, ERC-1155)  
+- 🌐 Architecting DeFi primitives (yield farming, staking, tokenomics)  
+- 🔄 Exploring cross-chain interoperability & account abstraction  
+- 🤝 Contributing to open-source Web3 tools & protocols  
 
-🔗 2+ years of specialized blockchain development (Ethereum(EVM), Hyperledger Fabric(Private blockhain) )
-
-📚 10+ published research papers on blockchain protocols, privacy, and scalability
- 
-
-
-
-
----
-
-### 🧠 Current Focus & Expertise
-
-🔭 I’m currently building Web3 DApps, wirte and audit Smart Contract. 
-
-🌱 Exploring more about cross-chain functionalities.  
-
-🧾 I write about Blockchain, DApps and Smart Contract security and best practices.  
-
-🧩 I love contributing to open-source Blockchain projects
+### 💻 Web2 & Full-Stack  
+- 🔧 **5+ years** with React.js, Next.js, Vue.js, Node.js & Laravel  
+- 🗄️ Databases: MongoDB, MySQL, PostgreSQL  
+- 🚀 CI/CD, Docker, Nginx, RESTful & real-time APIs  
+- 🔐 Auth: JWT, OAuth, session-based systems  
 
 ---
 
+## 🔍 What I’m Working On
 
-### 🚀 Core Skills:
+🛠️ **Blockchain/Web3**  
+- Auditing gas-optimized smart contracts  
+- Building scalable DApps with React & Next.js  
+- Writing best-practice guides on security & upgrades  
 
-✔️ Smart Contract Development – Secure & gas-optimized Solidity contracts (ERC-20, ERC-721, ERC-1155)
-
-✔️ DApp Development – Seamless Web3 integration with Ethers.js, Web3.js, and Hardhat; React.js/Next.js frontends and Node.js/Express/MongoDB backends
-
-✔️ DeFi & NFTs – Designing yield farming, staking, tokenomics models, and NFT minting/marketplace platforms
-
-✔️ Security & Auditing – Comprehensive audits with best practices, unit/fuzz testing, static analysis using MythX, Slither, Tenderly
-
----
- 
-
-### 📫 Contact Me
-
-- LinkedIn: [linkedin.com/in/theruhulamin](https://linkedin.com/in/theruhulamin)
-- Website/Portfolio: [ruhul-info.vercel.app](https://ruhul-info.vercel.app/)
-- Whatsapp : [+880 1840000408](https://wa.me/8801840000408)
+⚙️ **Web2**  
+- Designing RESTful microservices in Node.js  
+- Integrating modern auth flows (OAuth, JWT)  
 
 ---
+
+## 💡 Core Skills
+
+| Blockchain/Web3                           | Web2 / Full-Stack                    |
+|-------------------------------------------|--------------------------------------|
+| Solidity & Smart Contracts                | React.js / Next.js                   |
+| Hardhat, Foundry, Truffle                 | Node.js, Express.js, Laravel         |
+| Ethers.js, Web3.js, Wallet integrations   | MongoDB, MySQL, PostgreSQL           |
+| DeFi & NFT architectures                  | Docker, CI/CD, Nginx                 |
+| Static & Dynamic Analysis (Slither, MythX)| Testing: Jest, Mocha, Postman        |
+
+---
+
+## 📫 Let’s Connect
+
+- 🔗 **LinkedIn:** [linkedin.com/in/theruhulamin](https://linkedin.com/in/theruhulamin)  
+- 🌐 **Portfolio:** [ruhul-info.vercel.app](https://ruhul-info.vercel.app)  
+- 📧 **Email:** ruhulamin010398@gmail.com  
+- 📱 **WhatsApp:** [+880 1840000408](https://wa.me/8801840000408)  
