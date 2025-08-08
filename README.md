@@ -9,6 +9,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ruhulamin1398&show_icons=true&theme=react" alt="GitHub stats" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/rit3zh" target="_blank">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruhulamin1398&theme=dark&hide_border=false" alt="Build Status">
+    </a>
+</p>
 
 ## 🧠 Overview
 
