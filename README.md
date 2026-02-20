@@ -5,9 +5,10 @@
 <br/>
 <br/> 
 
-<p align="center">
+<p align="center"> 
+
   
-  <img src="https://github-readme-stats.vercel.app/api?username=ruhulamin1398&show_icons=true&theme=react" alt="GitHub stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ruhulamin1398&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 
   
   <img src="https://streak-stats.demolab.com?user=ruhulamin1398&theme=tokyonight" alt="Build Statu s">  
