@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ruhul Amin</h1>
 <h3 align="center">🚀 Full-stack Developer  | NextJs | Blockchain | Smart Contract | Defi | Dapp | Ethereum | Hyperledger Fabric </h3>
+ 
+ <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&center=true&vCenter=true&color=00C6FF&width=900&lines=Leading+a+%242.8B+Project+at+Palm+USD+(PUSD)" alt="Typing SVG" />
+</p>
+
+ 
 
  
 <br/>
