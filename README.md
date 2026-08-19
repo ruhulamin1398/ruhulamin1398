@@ -12,9 +12,9 @@
 <br/> 
 
 <p align="center">   
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=ruhulamin1398&show_icons=true&theme=tokyonight " alt="GitHub stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ruhulamin1398&show_icons=true&theme=tokyonight" alt="GitHub stats" />
  
-  <img src="https://streak-stats.demolab.com?user=ruhulamin1398&theme=tokyonight" alt="Build Status">  
+  <img src="https://streak-stats.demolab.com?user=ruhulamin1398&theme=tokyonight " alt="Build Status">  
 </p>
   <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruhulamin1398&theme=github-dark&custom_domain=github.com&timezone=Asia/Dhaka" width="100%" />
